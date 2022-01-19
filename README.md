@@ -4,8 +4,8 @@
 Here are some ideas to get you started:
 -->
 Hi, I am Mohammad Yasin Noori.<br>
-I am interested in Full Stack Web Development (Open Source)<br>
-Laravel Passionate and JS Lover<br>
-Familiar with Laravel, Vue, Angular, Java, MySQL, UI/UX and Algorithms.<br>
-Reach me through: drmynsb@yahoo.com | drmynsb@gmail.com<br>
-LinkedIn Profile: https://www.linkedin.com/in/mohammad-yasin-noori-765a64104
+- I am interested in Full Stack Web Development (Open Source)<br>
+- Laravel & Js Passionate Developer<br>
+- Familiar with Laravel, Vue, Angular, Java, MySQL, UI/UX and Algorithms.<br>
+- Reach me through: drmynsb@yahoo.com | drmynsb@gmail.com<br>
+- LinkedIn Profile: https://www.linkedin.com/in/mohammad-yasin-noori-765a64104
