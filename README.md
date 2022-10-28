@@ -5,8 +5,8 @@ Here are some ideas to get you started:
 -->
 Hi, I am Mohammad Yasin Noori.<br>
 - I consider myself expert in Full Stack Web Development (Open Source) for around 6 years<br>
-- Laravel & Js (Vue and Angular) Passionate Developer<br>
+- Laravel & Js (Vue, React and Angular) Passionate Developer<br>
 - TALL (Tailwind CSS, AlpineJS, Laravel & Livewire) Stack developer<br>
-- Familiar with Laravel, Vue, Angular, Java, MySQL, UI/UX and Algorithms.<br>
+- Familiar with Laravel, Vue, React, Angular, Java, MySQL, UI/UX and Algorithms.<br>
 - Reach me through: drmynsb@yahoo.com | drmynsb@gmail.com<br>
 - LinkedIn Profile: https://www.linkedin.com/in/mohammad-yasin-noori-765a64104
