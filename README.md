@@ -15,7 +15,7 @@ Hi, I am Mohammad Yasin Noori.<br>
 
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=Mohammad-Yasin-Noorii&theme=monokai-metallian&hide_border=false">
+    <img src="https://streak-stats.demolab.com/?user=Mohammad-Yasin-Noori&theme=monokai-metallian&hide_border=false">
     <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Yasin-Noori&show_icons=true&theme=onedark&bg_color=1F222E">
 </p>
 
