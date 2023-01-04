@@ -10,3 +10,5 @@ Hi, I am Mohammad Yasin Noori.<br>
 - Familiar with React, Java, MySQL, UI/UX and Algorithms.<br>
 - Reach me through: drmynsb@yahoo.com | drmynsb@gmail.com<br>
 - LinkedIn Profile: https://www.linkedin.com/in/mohammad-yasin-noori-765a64104
+- Fiverr Profile: https://www.fiverr.com/yasinnoori
+- Fiverr Gig: https://www.fiverr.com/share/VBpB3V
