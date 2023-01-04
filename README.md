@@ -19,4 +19,4 @@ Hi, I am Mohammad Yasin Noori.<br>
     <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Yasin-Noori&show_icons=true&theme=onedark&bg_color=1F222E">
 </p>
 
-![dghousi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mohammad-Yasin-Noori&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![Mohammad-Yasin-Noori's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mohammad-Yasin-Noori&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
