@@ -12,3 +12,11 @@ Hi, I am Mohammad Yasin Noori.<br>
 - LinkedIn Profile: https://www.linkedin.com/in/mohammad-yasin-noori-765a64104
 - Fiverr Profile: https://www.fiverr.com/yasinnoori
 - Fiverr Gig: https://www.fiverr.com/share/VBpB3V
+
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=Mohammad-Yasin-Noorii&theme=monokai-metallian&hide_border=false">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Yasin-Noori&show_icons=true&theme=onedark&bg_color=1F222E">
+</p>
+
+![dghousi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mohammad-Yasin-Noori&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
