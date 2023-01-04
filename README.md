@@ -18,5 +18,3 @@ Hi, I am Mohammad Yasin Noori.<br>
     <img src="https://streak-stats.demolab.com/?user=Mohammad-Yasin-Noori&theme=monokai-metallian&hide_border=false">
     <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Yasin-Noori&show_icons=true&theme=onedark&bg_color=1F222E">
 </p>
-
-![Mohammad-Yasin-Noori's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mohammad-Yasin-Noori&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
