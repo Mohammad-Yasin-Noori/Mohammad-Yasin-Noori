@@ -18,3 +18,11 @@ Hi, I am Mohammad Yasin Noori.<br>
     <img src="https://streak-stats.demolab.com/?user=Mohammad-Yasin-Noori&theme=monokai-metallian&hide_border=false">
     <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Yasin-Noori&show_icons=true&theme=onedark&bg_color=1F222E">
 </p>
+<a href="https://github.com/Mohammad-Yasin-Noori/github-stats#gh-dark-mode-only">
+<img src="https://github.com/Mohammad-Yasin-Noori/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Mohammad-Yasin-Noori/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/Mohammad-Yasin-Noori/github-stats#gh-light-mode-only">
+<img src="https://github.com/Mohammad-Yasin-Noori/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/Mohammad-Yasin-Noori/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
