@@ -16,9 +16,7 @@ Hi, I am Mohammad Yasin Noori.<br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Yasin-Noori&theme=monokai">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-yasin-noori&show_icons=true&locale=en&layout=compact" alt="mohammad-yasin-noori" /></p>
-<p>
-    <img align="center" src="https://streak-stats.demolab.com/?user=Mohammad-Yasin-Noori&theme=monokai-metallian&hide_border=false">
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-yasin-noori&" alt="mohammad-yasin-noori" /></p>
 <p>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Yasin-Noori&show_icons=true&theme=onedark&bg_color=1F222E">
 </p>
