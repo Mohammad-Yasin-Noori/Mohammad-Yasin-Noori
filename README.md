@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 Hi, I am Mohammad Yasin Noori.<br>
-- I consider myself expert in Full Stack Web Development (Open Source) for around 7 years<br>
+- I consider myself expert in Full Stack Web Development (Open Source) for around 7 years <br>
 - Laravel & Js (Vue) Passionate Developer<br>
 - TALL (Tailwind CSS, AlpineJS, Laravel & Livewire) Stack developer<br>
 - Familiar with React, Svelte, Java, Python, UI/UX and Algorithms.<br>
