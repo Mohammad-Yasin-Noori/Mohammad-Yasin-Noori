@@ -18,9 +18,6 @@ Hi, I am Mohammad Yasin Noori<br>
   <a href="https://github.com/mohammad-yasin-noori" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=mohammad-yasin-noori&label=Views&color=brightgreen&style=flat" alt="mohammadyasinnoori" />
   </a>
-|GITHUB STATS|MOST USED LANGUAGES|
-|:---:|:---:|
-|[![Mohammad Yasin Noori's github stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Yasin-Noori&show_icons=true&theme=monokai-metallian&bg_color=1F222E)](https://github.com/ahmadjoya/github-readme-stats)|[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Yasin-Noori&theme=monokai)](https://github.com/ahmadjoya/github-readme-stats)|
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Yasin-Noori&theme=monokai">
