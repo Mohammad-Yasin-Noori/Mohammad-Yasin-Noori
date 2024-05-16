@@ -12,6 +12,12 @@ Hi, I am Mohammad Yasin Noori<br>
 - LinkedIn Profile: https://www.linkedin.com/in/mohammad-yasin-noori-765a64104
 - Fiverr Profile: https://www.fiverr.com/yasinnoori
 - Fiverr Gig: https://www.fiverr.com/share/VBpB3V
+ <a href="https://github.com/ahmadjoya" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mohammad-yasin-noori?label=Github&style=flat">
+  </a>
+  <a href="https://github.com/ahmadjoya" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=mohammad-yasin-noori&label=Views&color=brightgreen&style=flat" alt="mohammadyasinnoori" />
+  </a>
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Yasin-Noori&theme=monokai">
 </p>
