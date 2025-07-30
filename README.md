@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Mohammad Yasin Noori
 
-🔧 **Full Stack Web Developer | Laravel Expert | DevOps Enthusiast**
+🔧 **Senior Full Stack Software Engineer | Laravel Expert | DevOps Enthusiast**
 
 With over 8 years of experience in full stack web development, I specialize in building scalable, maintainable, and high-performance web applications using modern open-source technologies.
 
