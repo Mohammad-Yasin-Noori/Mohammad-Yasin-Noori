@@ -2,7 +2,7 @@
 **Mohammad-Yasin-Noori/Mohammad-Yasin-Noori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 👋 Hi, I'm Mohammad Yasin Noori
+# Greetings, I'm Mohammad Yasin Noori
 
 🔧 **Senior Full Stack Software Engineer | Laravel Expert | DevOps Enthusiast**
 
@@ -23,7 +23,7 @@ With over 8 years of experience in full stack web development, I specialize in b
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [drmynsb@yahoo.com](mailto:drmynsb@yahoo.com) | [drmynsb@gmail.com](mailto:drmynsb@gmail.com)  
+- 📧 Email: [drmynsb@yahoo.com](mailto:drmynsb@yahoo.com) | [drmynsb@gmail.com](mailto:drmynsb@gmail.com)  | [info@yasinnoori.dev](mailto:info@yasinnoori.dev)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-yasin-noori-765a64104)  
 - 💼 [Fiverr Profile](https://www.fiverr.com/yasinnoori) | [Fiverr Gig](https://www.fiverr.com/share/VBpB3V)  
 - 📚 Learning @ [Coursera](https://coursera.org)
