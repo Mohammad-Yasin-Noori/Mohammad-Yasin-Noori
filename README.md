@@ -12,12 +12,12 @@ With over 8 years of experience in full stack web development, I specialize in b
 
 ### 🧠 What I Do
 
-- 💻 Expert in **Laravel**, **Vue**, **React**, **NodeJS**, and the **TALL Stack** (Tailwind CSS, AlpineJS, Laravel, Livewire)
-- 🌍 Experienced in **RESTful APIs**, **Real-time apps**, **ERP development**, and **SaaS development**
-- 📦 Skilled in **DevOps**, **CI/CD**, **Software Architecture**, and **Backend Optimization**
-- 🧪 Passionate about clean code, performance, and solving real-world problems
-- 🧠 Exploring: **Svelte**, **Java**, **Python**, and advanced **software architecture patterns**
-- 🚧 Currently building a **Central Attendance System**
+- Expert in **Laravel**, **Vue**, **React**, **NodeJS**, and the **TALL Stack** (Tailwind CSS, AlpineJS, Laravel, Livewire)
+- Experienced in **RESTful APIs**, **Real-time apps**, **ERP development**, and **SaaS development**
+- Skilled in **DevOps**, **CI/CD**, **Software Architecture**, and **Backend Optimization**
+- Passionate about clean code, performance, and solving real-world problems
+- Exploring: **Svelte**, **Java**, **Python**, and advanced **software architecture patterns**
+- Currently building a **Centralized Attendance System**
 
 ---
 
@@ -26,7 +26,6 @@ With over 8 years of experience in full stack web development, I specialize in b
 - 📧 Email: [drmynsb@yahoo.com](mailto:drmynsb@yahoo.com) | [drmynsb@gmail.com](mailto:drmynsb@gmail.com)  | [info@yasinnoori.dev](mailto:info@yasinnoori.dev)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-yasin-noori-765a64104)  
 - 💼 [Fiverr Profile](https://www.fiverr.com/yasinnoori) | [Fiverr Gig](https://www.fiverr.com/share/VBpB3V)  
-- 📚 Learning @ [Coursera](https://coursera.org)
 
 ---
 
