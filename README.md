@@ -1,7 +1,7 @@
 <!--
 **Mohammad-Yasin-Noori/Mohammad-Yasin-Noori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+> **Note:** If you reached here via my old username `Mohammad-Yasin-Noori`, you’re in the right place! 🎉
 # Greetings, I'm Mohammad Yasin Noori
 
 🔧 **Senior Full Stack Software Engineer | Laravel Expert | DevOps Enthusiast**
