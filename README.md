@@ -31,19 +31,19 @@ With over 8 years of experience in full stack web development, I specialize in b
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/mohammad-yasin-noori" target="_blank">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/mohammad-yasin-noori?label=Github&style=flat">
+<a href="https://github.com/YasinNoori" target="_blank">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/YasinNoori?label=Github&style=flat">
 </a>
-<a href="https://github.com/mohammad-yasin-noori" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=mohammad-yasin-noori&label=Views&color=brightgreen&style=flat" alt="Profile Views" />
+<a href="https://github.com/yasinnoori" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=yasinnoori&label=Views&color=brightgreen&style=flat" alt="Profile Views" />
 </a>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Yasin-Noori&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasinNoori&theme=monokai" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-yasin-noori&show_icons=true&locale=en&layout=compact&theme=monokai-metallian&hide_border=false&bg_color=1F222E" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinnoori&show_icons=true&locale=en&layout=compact&theme=monokai-metallian&hide_border=false&bg_color=1F222E" alt="Top Languages" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=Mohammad-Yasin-Noori&theme=monokai-metallian&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Yasin-Noori&show_icons=true&theme=monokai-metallian&bg_color=1F222E" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=YasinNoori&theme=monokai-metallian&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YasinNoori&show_icons=true&theme=monokai-metallian&bg_color=1F222E" alt="GitHub Stats" />
 </p>
